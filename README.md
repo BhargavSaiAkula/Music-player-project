@@ -1,15 +1,17 @@
 # Music-Player-Project
-Music-Player-Project (Made using HTML5 CSS3 and BOOTSTRAP)
+Music-Player-Project (Made using HTML5 CSS3 and BOOTSTRAP,Java Script)
+<br>
+![Screenshot (9146)](https://github.com/BhargavSaiAkula/Music-player-project/music.png)
 
 
-In this project i have created front-end design of a music player in HTML and CSS to increease my command over them.
+In this project, I have created a front-end design of a music player in HTML,CSS,Java Script. 
 
 ABOUT THIS PROJECT-:
 
 1. This is a simple static music player created using pure HTML and CSS as part of my MERN stack course in Coding Ninjas.
 
-2. Project has 2 pages, one for home and another for single-playlist which can be accessed by clicking on any image/link of Popular Artist Section and also through the      option provided in nav bar. 
+2. The project has 2 pages, one for home and another for single playlist which can be accessed by clicking on any image/link of the Popular Artist Section and also through the  option provided in the nav bar. 
 
-3. Although the website is mostly responsive, still it has some minor issues for smaller screens and need improvements. It will be covered in updated versions.
+3. Although the website is mostly responsive, it still has some minor issues with smaller screens and needs improvements. It will be covered in updated versions.
 
-4. For demo purpose, there is only one song in this project.
+4. For demo purposes, this project has only one song.
