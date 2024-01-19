@@ -1,8 +1,8 @@
 # Music-Player-Project
 Music-Player-Project (Made using HTML5 CSS3 and BOOTSTRAP,Java Script)
 <br>
-![Screenshot (9146)](https://github.com/BhargavSaiAkula/Music-player-project/main/music.png)
 
+![Screenshot (9146)](https://github.com/BhargavSaiAkula/Music-player-project/blob/main/music.PNG)
 
 
 In this project, I have created a front-end design of a music player in HTML,CSS,Java Script. 
